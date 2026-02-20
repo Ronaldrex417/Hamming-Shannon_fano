@@ -1,3 +1,5 @@
+# NAME : RONALD REX S
+# REG NO : 212224060221
 # Huffman-Shannon_fano
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.4,0.2,0.2,0.1,0.1} for its output. 
@@ -7,7 +9,7 @@ Python IDE with Numpy and Scipy.
 
 # Program:
 ```
-0#Huffman and Shannon-Fano coding
+#Huffman and Shannon-Fano coding
 import numpy as np
 import math
 L  = 0
